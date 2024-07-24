@@ -1,5 +1,6 @@
 <p align="center">
-<img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
+  
+![Screen Shot 2024-07-24 at 9 45 43 AM](https://github.com/user-attachments/assets/508b5e05-c797-43a8-9c2b-b30651ccc63c)
 </p>
 
 <h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
