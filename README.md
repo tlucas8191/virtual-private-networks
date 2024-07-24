@@ -1,9 +1,9 @@
 <p align="center">  
-<img src="https://i.imgur.com/J4ZSpnZ.png" alt="Microsoft Active Directory Logo"/>
+<img src="https://i.imgur.com/J4ZSpnZ.png" alt="Proton VPN Logo"/>
 </p>
 
-<h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
-This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
+<h1>VPN Setup and Usage (using Proton VPN) (Azure)</h1>
+This tutorial outlines the implementation and usage of a virtual network (specifically Proton VPN) within Azure Virtual Machines.<br />
 
 
 <h2>Video Demonstration</h2>
