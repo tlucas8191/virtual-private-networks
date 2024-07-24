@@ -3,12 +3,12 @@
 </p>
 
 <h1>VPN Setup and Usage (using Proton VPN) (Azure)</h1>
-This tutorial outlines the implementation and usage of a virtual network (specifically Proton VPN) within Azure Virtual Machines.<br />
+This tutorial outlines the implementation and usage of a virtual private network (specifically Proton VPN) within Azure Virtual Machines.<br />
 
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How to Deploy on-premises Active Directory within Azure Compute](https://www.youtube.com)
+- ### [YouTube: How to implement a virtual private network on a virtual machine within Azure Compute](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
