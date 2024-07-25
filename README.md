@@ -8,7 +8,7 @@ This tutorial outlines the implementation and usage of a virtual private network
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How to implement a virtual private network on a virtual machine within Azure Compute](https://www.youtube.com)
+- ### [YouTube: How to implement a virtual private network on a virtual machine within Azure Compute](https://www.youtube.com/watch?v=bHzikQ493xY))
 
 <h2>Environments and Technologies Used</h2>
 
@@ -70,9 +70,9 @@ In this part of the lab, we logged back within the VM, downloaded Proton VPN cli
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/xZMcZyS.png" height="80%" width="80%" alt="Observing Info Browsing inside of VPN"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In the last part of this lab, while browsing inside of the VPN that is connected to the Netherlands, we observed a difference while browsing the Microsoft Start Page.  All of the words shown in Dutch, the language of the Netherlands, instead of in English.
 </p>
 <br />
