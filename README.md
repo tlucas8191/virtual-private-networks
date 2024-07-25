@@ -33,18 +33,19 @@ This tutorial outlines the implementation and usage of a virtual private network
 <h2>VPN Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/tpRiiL9.png" height="80%" width="80%" alt="What's my IP Address?"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In this step, we browsed to https://whatismyipaddress.com/ and took note of the IP Address that was shown .
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/toeil8G.png" height="80%" width="80%" alt="What's my IP Address? - part 2"/>
+<img src="https://i.imgur.com/Dm6PDJ0.png" height="80%" width="80%" alt="What's my IP Address? - part 2a"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In this step, we created a Windows 10 Virtual Machine inside of Azure, logged in and browsed to https://whatismyipaddress.com/ again and take note of the IP Address.  It showed a different IP Address than the first IP Address from step 1.
 </p>
 <br />
 
