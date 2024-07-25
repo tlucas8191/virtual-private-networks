@@ -45,7 +45,27 @@ In this step, we browsed to https://whatismyipaddress.com/ and took note of the 
 <img src="https://i.imgur.com/Dm6PDJ0.png" height="80%" width="80%" alt="What's my IP Address? - part 2a"/>
 </p>
 <p>
-In this step, we created a Windows 10 Virtual Machine inside of Azure, logged in and browsed to https://whatismyipaddress.com/ again and take note of the IP Address.  It showed a different IP Address than the first IP Address from step 1.
+In this step, we created a Windows 10 Virtual Machine inside of Azure, logged in, and browsed to https://whatismyipaddress.com/ again and took note of the IP Address.  It showed a different IP Address than the first IP Address from step 1.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/kSbGMaT.png" height="80%" width="80%" alt="Sign up for Proton VPN."/>
+</p>
+<p>
+In this part of the lab, on the actual computer,  we signed up for the free version of Proton VPN.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/XvA1xoP.png" height="80%" width="80%" alt="What's my IP Address? - part 3"/>
+<img src="https://i.imgur.com/iil6DcI.png" height="80%" width="80%" alt="What's my IP Address? - part 3a"/>
+<img src="https://i.imgur.com/hvHYBx7.png" height="80%" width="80%" alt="What's my IP Address? - part 3b"/>
+<img src="https://i.imgur.com/32pX4Jf.png" height="80%" width="80%" alt="What's my IP Address? - part 3c"/>
+<img src="https://i.imgur.com/4er4Bzm.png" height="80%" width="80%" alt="What's my IP Address? - part 3d"/>
+</p>
+<p>
+In this part of the lab, we logged back within the VM, downloaded Proton VPN client, logged in to the VPN and chose a VPN server in another country (the Netherlands), browsed to https://whatismyipaddress.com/ again and took note of the IP Address.  It showed a third different IP Address than the previous other two.
 </p>
 <br />
 
