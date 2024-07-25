@@ -20,13 +20,15 @@ This tutorial outlines the implementation and usage of a virtual private network
 
 - Windows 10 (21H2)
 
-<h2>Virtual Private Network Configuration Steps</h2>
+<h2>Virtual Private Network Lab Steps</h2>
 
 - Step 1: Browse to https://whatismyipaddress.com/ and take note of the IP Address.
 - Step 2: Create a Windows 10 Virtual Machine inside of Azure, login and browse to https://whatismyipaddress.com/ again and take note of the IP Address.
-- Step 3:
-- Step 4:
-- Step 5:
+- Step 3: On the actual computer, sign up for the free version of Proton VPN.
+- Step 4: Back within the VM, download Proton VPN client, login to the VPN and choose a VPN server in another country, browse to https://whatismyipaddress.com/ again and take note of 
+  the IP Address.
+- Step 5: Try browsing to Google, Disney, and/or Amazon (or any website) and see if there is anything different about the sites in relation to the location of the VPN server. For 
+  example, the language or URL may be different.
 
 <h2>VPN Configuration Steps</h2>
 
