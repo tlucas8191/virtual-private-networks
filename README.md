@@ -20,14 +20,15 @@ This tutorial outlines the implementation and usage of a virtual private network
 
 - Windows 10 (21H2)
 
-<h2>High-Level Deployment and Configuration Steps</h2>
+<h2>Virtual Private Network Configuration Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Step 1: Browse to https://whatismyipaddress.com/ and take note of the IP Address.
+- Step 2: Create a Windows 10 Virtual Machine inside of Azure, login and browse to https://whatismyipaddress.com/ again and take note of the IP Address.
+- Step 3:
+- Step 4:
+- Step 5:
 
-<h2>Deployment and Configuration Steps</h2>
+<h2>VPN Configuration Steps</h2>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
